@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ayah_number{
+    @apply w-10 h-10 text-center leading-10 bg-red-500 text-white inline-block rounded-full
+}
